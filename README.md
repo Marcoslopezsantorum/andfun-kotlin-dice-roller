@@ -1,6 +1,6 @@
-En primer lugar realizamos un fork y clonamos el reposiyorio 
+En primer lugar realizamos un fork y clonamos el repositorio 
 
-Despues creamos una rama desde cero y le damos el nombre de solución y vamos haciendo paso por paso lo hace en las otras ramas
+Despues creamos una rama desde cero y le damos el nombre de solución y vamos haciendo paso por paso lo que hace en las otras ramas
 
 Para los strings idiomas tenemos que crear 2 strings en el directorio values 2 porque son dos idiomas los que vamos a añadir uno en Español y otro en Inglés y vamos al activity_main del layout y cambiamos en el apartado android:text y ponemos "@string/...y el nombre que le dimos"
 
